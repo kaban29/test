@@ -35,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BadFIle" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BadFIle">
+      <file leaf-file-name="Bad.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Bad.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="346">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.34393063" vertical-offset="0" max-vertical-offset="346">
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -58,6 +58,7 @@
         <option value="$PROJECT_DIR$/Annyshka" />
         <option value="$PROJECT_DIR$/BadFile.html" />
         <option value="$PROJECT_DIR$/BadFile" />
+        <option value="$PROJECT_DIR$/Bad.php" />
       </list>
     </option>
   </component>
@@ -226,10 +227,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BadFIle">
+    <entry file="file://$PROJECT_DIR$/Bad.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="372">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.34393063" vertical-offset="0" max-vertical-offset="346">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
           <folding />
         </state>
       </provider>
