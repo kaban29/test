@@ -39,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/Bad.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.4913295" vertical-offset="0" max-vertical-offset="346">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -230,7 +230,7 @@
     <entry file="file://$PROJECT_DIR$/Bad.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4913295" vertical-offset="0" max-vertical-offset="346">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding />
         </state>
       </provider>
